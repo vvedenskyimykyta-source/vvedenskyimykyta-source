@@ -6,11 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://nickvedensky.com"><img alt="Website" src="https://img.shields.io/badge/site-nickvedensky.com-10B981?style=flat-square&logo=globe&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nickvvedenskyi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nickvvedenskyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:nickvvedenskyi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/nickvvedenskyi@gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
-
-<p align="center"><sub>LinkedIn and Instagram → see the socials panel in the sidebar ↙</sub></p>
 
 ---
 
@@ -44,7 +42,7 @@ I find those gaps:
 
 Things I build when I need them in my own work and figure others might too.
 
-- 🧮 **[napkin-unit-economics](https://github.com/vvedenskyimykyta-source/napkin-unit-economics)** — back-of-the-napkin unit economics calculator for mobile apps and Web/SaaS. Live at [calc.nickvedensky.com](https://calc.nickvedensky.com). Sanity-check pricing, CPA, LTV, churn, cohort break-even in 2 minutes.
+- 🧮 **[napkin-unit-economics](https://github.com/vvedenskyimykyta-source/napkin-unit-economics)** — back-of-the-napkin unit economics calculator for mobile apps and Web/SaaS. Sanity-check pricing, CPA, LTV, churn, cohort break-even in 2 minutes.
 - More coming — I'm opening up templates and small tools I use with clients.
 
 ### How I think about growth
@@ -57,6 +55,6 @@ Audit-first, execution-second. I don't sell retainers — I sell **a Growth Audi
 
 <p align="center">
   <b>Looking for a Growth Audit or fractional help?</b><br/>
-  Write to <a href="mailto:nickvvedenskyi@gmail.com">nickvvedenskyi@gmail.com</a> or DM me via the socials in the sidebar.<br/>
+  DM me on <a href="https://www.linkedin.com/in/nickvvedenskyi/">LinkedIn</a> or write to <a href="mailto:nickvvedenskyi@gmail.com">nickvvedenskyi@gmail.com</a>.<br/>
   <sub>I reply within a day.</sub>
 </p>
