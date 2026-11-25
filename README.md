@@ -42,7 +42,7 @@ I find those gaps:
 
 Things I build when I need them in my own work and figure others might too.
 
-- 🧮 **[napkin-unit-economics](https://github.com/vvedenskyimykyta-source/napkin-unit-economics)** — back-of-the-napkin unit economics calculator for mobile apps and Web/SaaS. Sanity-check pricing, CPA, LTV, churn, cohort break-even in 2 minutes.
+- 🧮 **[napkin-unit-economics](https://github.com/vvedenskyimykyta-source/napkin-unit-economics)** — back-of-the-napkin unit economics calculator for mobile apps and Web/SaaS. Live at [calc.nickvvedenskyi.com](https://calc.nickvvedenskyi.com). Sanity-check pricing, CPA, LTV, churn, cohort break-even in 2 minutes.
 - More coming — I'm opening up templates and small tools I use with clients.
 
 ### How I think about growth
